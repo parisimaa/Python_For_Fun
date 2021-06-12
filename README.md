@@ -14,5 +14,8 @@ Here are the requirements: (you can add more options)
    * You need to keep track of the player's total money.
    * You need to alert the player of wins, losses, or busts, etc...
 
+3. Dice Rolling Simulator: <br>
+The dice is a simple cube that generates any number from 1 to 6, and the dice simulator is a computer model that rolls the dice for the user. A dice rolling simulator can be implemented in different ways by Python.
+
 ## Contact:
 parisima.abdali@gmail.com
