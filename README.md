@@ -3,7 +3,7 @@
 These are some useful projects for improving your Python skills. There are dozens of ways a problem can be implemented. Thus, it does not matter if your code is not similar to mine, feel free to develop your own code version.  
 
 ## Projects:
-1. Tic Tac Toe: 
+1. Tic Tac Toe: <br>
 A game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
 2. Black Jack: 
    * Here are the requirements:
