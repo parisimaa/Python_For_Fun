@@ -6,7 +6,7 @@ These are some useful projects for improving your Python skills. There are dozen
 1. Tic Tac Toe: <br>
 A game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
 2. Black Jack: <br>
-Here are the requirements:
+Here are the requirements: (you can add more options)
    * You need to create a simple text-based BlackJack game
    * The game needs to have one player versus an automated dealer.
    * The player can stand or hit.
