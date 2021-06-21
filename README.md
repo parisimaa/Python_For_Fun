@@ -17,5 +17,9 @@ Here are the requirements: (you can add more options)
 3. Dice Rolling Simulator: <br>
 The dice is a simple cube that generates any number from 1 to 6, and the dice simulator is a computer model that rolls the dice for the user. A dice rolling simulator can be implemented in different ways by Python.
 
+4. Binary Search: <br>
+Binary Search is a search algorithm that finds the position of a target value within a sorted array. Binary search compares the target value to the middle element of the array. If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. <br>
+Note: You can add Reset button and change the Tic variable limit.
+
 ## Contact:
 parisima.abdali@gmail.com
